@@ -32,7 +32,8 @@
     <properties>
         <camel.osgi.export.pkg>
             org.apache.camel.converter.dozer.*,
-            org.apache.camel.component.dozer.*
+            org.apache.camel.component.dozer.*,
+            org.apache.camel.component.dozer.operations.*
         </camel.osgi.export.pkg>
     </properties>
 
